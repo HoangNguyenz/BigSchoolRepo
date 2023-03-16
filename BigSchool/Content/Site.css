@@ -1,4 +1,4 @@
-﻿.navbar-inverse {
+﻿/*.navbar-inverse {
     background-color: #d41d50;
     border-color: #ff0000;
 }
@@ -11,7 +11,7 @@
     color: #ffffff
 }
 /*course layout*/
-.course{
+.course {
     list-style: none;
 }
 
@@ -20,7 +20,7 @@
     margin-bottom: 30px;
 }
 
-.course > li .date{
+.course > li .date {
     text-align: center;
     background-color: #d41d50;
     color: white;
