@@ -29,7 +29,7 @@ namespace BigSchool.Controllers
                 };
                 _dbContext.Attendances.Add(attendance);
                 _dbContext.SaveChanges();
-                return Ok(attendance);
+                return Ok();
             }
 
         }
